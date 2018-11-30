@@ -1,0 +1,5 @@
+venv
+diag.db
+log.txt
+.vscode
+__pycache__
